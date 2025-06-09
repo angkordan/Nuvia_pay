@@ -1,0 +1,5 @@
+Django
+gunicorn
+psycopg2-binary  # For PostgreSQL
+dj-database-url  # For DB config
+whitenoise       # For static files
